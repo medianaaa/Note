@@ -2,7 +2,7 @@ import React from "react";
 import { StyleSheet, Text, View  } from "react-native";
 import {gStyle} from "../styles/style";
 
-export default function Contact() {в
+export default function Contact() {
  
   return (
     <View style = {gStyle.main}>
